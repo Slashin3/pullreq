@@ -1,6 +1,1 @@
-hi im Manoj
-Manoj branch
-
-new text added here please check.
-
-again added please check.
+The changes are done and I cleared all the bugs.
